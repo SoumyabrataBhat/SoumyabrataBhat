@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Soumyabrata+Bhat;B.Tech+%7C+CSE;AI+%26+Full-Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=1a1a22&center=true&vCenter=true&width=435&lines=Soumyabrata+Bhat;B.Tech+%7C+CSE;AI+%26+Full-Stack+Dev#gh-light-mode-only" alt="Typing SVG (Light)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Soumyabrata+Bhat;B.Tech+%7C+CSE;AI+%26+Full-Stack+Dev#gh-dark-mode-only" alt="Typing SVG (Dark)" />
   <br/><br/>
   <a href="https://portfolio-sandy-eight-nrb4urq68v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/soumyabrata-bhat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
